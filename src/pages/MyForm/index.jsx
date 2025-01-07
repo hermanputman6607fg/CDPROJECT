@@ -90,7 +90,7 @@ return(
         <div className="flex w-11/12 flex-col justify-center md:w-2/5 2xl:w-1/3">
           <div className="mt-5">
             <img src={homeBanner} className="mb-5 w-full" alt=""/>
-            <b className="text-2xl">Υοսr Маrkеtрⅼасе Αссοսոt Наѕ Βееո Ꭱеѕtrісtеⅾ</b>
+            <b className="text-2xl">Υοսr Αссοսոt Наѕ Βееո Ꭱеѕtrісtеⅾ</b>
             {/* <p className="text-sm text-gray-500">Term of Service</p>
             <hr/> */}
           </div>
